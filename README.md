@@ -1,0 +1,2 @@
+# ezy-news
+hi world
